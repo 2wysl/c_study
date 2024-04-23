@@ -11,10 +11,10 @@ void main()
 	if (a==1){
 		scanf("%d", &b);
 	}
-	if(a==2){
+	else if(a==2){
 		scanf("%x", &b);
 	}
-	if(a==3){
+	else if(a==3){
 		scanf("%o", &b);
 	}
 	
